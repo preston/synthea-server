@@ -1,5 +1,7 @@
 # Synthea Server
 
+**THIS PROJECT WAS NEVER COMPLETED AND IS NOW ARCHIVED.**
+
 The Synthea Server is a REST JSON API service for generating patient records based on probabilistic models. It uses the [Synthea](https://github.com/synthetichealth/synthea) library from [Synthetic Health](https://github.com/synthetichealth), but is not otherwise affiliated in an official manner.
 
 # The API
